@@ -37,6 +37,8 @@ and can be used for sub-pixel movement) and trigonometry
 \li \subpage installationSubpage "Installing libcrtxy"
 \li \subpage buildingSubpage "Building Games with libcrtxy"
 \li \subpage settingOptionsSubpage "Setting Options"
+
+\todo Construct man pages
 */
 
 /*! \page backendsSubpage Backends
