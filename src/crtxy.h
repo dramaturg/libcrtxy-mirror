@@ -45,8 +45,6 @@ and can be used for sub-pixel movement) and trigonometry
 
 \subsection tocGeneralSubsection Running games that use libcrtxy
 \li \subpage libcrtxy_setting_options "Setting Options"
-
-\todo Construct man pages
 */
 
 /*! \page libcrtxy_backends Backends that libcrtxy can use for drawing
