@@ -1102,6 +1102,15 @@ XY_fixed XY_cos(int degrees);
  */
 #define XY_sin(degrees) (XY_cos(90 - (degrees)))
 
+/**
+ * Returns sqrt() of 'i'.
+ *
+ * \paream i is the value to get the square root of, in XY_fixed.
+ * \return sqrt() of i, in XY_fixed.
+ */
+
+XY_fixed XY_sqrt(XY_fixed i);
+
 /** @} */
 
 
